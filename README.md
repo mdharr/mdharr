@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Michael, a passionate Full Stack Java Developer. I enjoy building applications with the powerful combination of Spring Boot and Angular.
+I'm Michael, a passionate Full Stack Java Developer. I enjoy building applications with Spring Boot and Angular.
 
 ## ⚡ About Me
 
