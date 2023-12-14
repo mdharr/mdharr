@@ -2,7 +2,7 @@
 I'm Michael, a passionate Full Stack Java Developer. My experience primarily centers around the powerful combination of Spring Boot and Angular.
 
 ## ⚡ About Me
-<p>
+
 - 💼 Java Full Stack Developer | Veteran
 
 - 🔭 I’m currently focusing on <a style="cursor:pointer" href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
@@ -14,7 +14,7 @@ I'm Michael, a passionate Full Stack Java Developer. My experience primarily cen
 - 💡 I believe in the power of collaboration and am always eager to discuss new projects or ideas. Feel free to reach out if you want to collaborate, have a project in mind, or just want to say hi!
 
 - 📫 How to reach me: **mdharr7@gmail.com**
-</p>
+
 ## 🚀 Languages and Tools:
 <div align="left"> 
    
