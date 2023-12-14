@@ -5,7 +5,7 @@ I'm Michael, a passionate Full Stack Java Developer. My experience primarily cen
 
 - 💼 Java Full Stack Developer | Veteran
 
-- 🔭 I’m currently focusing on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
+- 🔭 I’m currently working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
 
 - 🌱 I’m currently learning **Angular**
 
