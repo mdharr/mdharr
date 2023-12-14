@@ -5,11 +5,11 @@ I'm **Michael**, a passionate **Full Stack Developer**. I enjoy building applica
 
 - 💼 Java Full Stack Developer | Veteran
 
-- 🔭 I’m currently working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
+- 🔭 Working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Improving my **Angular** skills
 
-- 🔍 I'm currently on the lookout for new opportunities where I can contribute, learn, and grow. If you're in search of a developer with a blend of creativity and technical skill, let's connect!
+- 🔍 On the lookout for new opportunities where I can contribute, learn, and grow. If you're in search of a developer with a blend of creativity and technical skill, let's connect!
 
 - 💡 I believe in the power of collaboration and am always eager to discuss new projects or ideas. Feel free to reach out if you want to collaborate, have a project in mind, or just want to say hi!
 
