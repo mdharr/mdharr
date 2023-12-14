@@ -1,9 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hi, I'm Michael</h1>
 
 ## ⚡ About Me
 
-- 🔭 I’m currently focusing on **Developing My Skills**
+- 🔭 I’m currently focusing on <a style="cursor:pointer" href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
 
 - 🌱 I’m currently learning **Angular**
 
