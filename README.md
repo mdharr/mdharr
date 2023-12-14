@@ -38,4 +38,6 @@ I'm Michael, a passionate Full Stack Java Developer. My experience primarily cen
 </div>
    
 ## 📊  My Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdharr&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdharr&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+</div>
