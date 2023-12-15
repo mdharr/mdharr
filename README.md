@@ -7,7 +7,7 @@ I'm **Michael**, a passionate **Full Stack Developer**. I enjoy building applica
 
 - 🔭 Working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
 
-- 🌱 Improving my **Angular** skills
+- 🌱 Improving my **Angular** and **TypeScript** knowledge
 
 - 🔍 On the lookout for new opportunities where I can contribute, learn, and grow. If you're in search of a developer with a blend of creativity and technical skill, let's connect!
 
