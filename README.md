@@ -9,9 +9,9 @@ I'm **Michael**, a passionate **Full Stack Developer**. I enjoy building applica
 
 - 🌱 Improving my **Angular** and **TypeScript** knowledge
 
-- 🔍 On the lookout for new opportunities where I can contribute, learn, and grow. If you're in search of a developer with a blend of creativity and technical skill, let's connect!
+- 🔍 On the lookout for new opportunities where I can contribute, learn, and grow.
 
-- 💡 I believe in the power of collaboration and am always eager to discuss new projects or ideas. Feel free to reach out if you want to collaborate, have a project in mind, or just want to say hi!
+- 💡 I believe in the power of collaboration and am always eager to discuss new projects or ideas.
 
 - 📫 How to reach me: **mdharr7@gmail.com**
 
