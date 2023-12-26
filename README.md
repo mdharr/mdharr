@@ -1,21 +1,21 @@
-### Hi there 👋
-I'm **Michael**, a passionate **Full Stack Developer**. I enjoy building applications with **Spring Boot** and **Angular**.
+### Hello, I'm Michael
+I'm a passionate **Full Stack Developer**. I enjoy building applications with **Spring Boot** and **Angular**.
 
-## ⚡ About Me
+## About Me
 
-- 💼 Java Full Stack Developer | Veteran
+- Java Full Stack Developer | Veteran
 
-- 🔭 Working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
+- Working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
 
-- 🌱 Improving my **Angular** and **TypeScript** knowledge
+- Improving my **Angular** and **TypeScript** knowledge
 
-- 🔍 On the lookout for new opportunities where I can contribute, learn, and grow.
+- On the lookout for new opportunities where I can contribute, learn, and grow.
 
-- 💡 I believe in the power of collaboration and am always eager to discuss new projects or ideas.
+- I believe in the power of collaboration and am always eager to discuss new projects or ideas.
 
-- 📫 How to reach me: **mdharr7@gmail.com**
+- How to reach me: **mdharr7@gmail.com**
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 <div align="left"> 
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="48" height="48" />
@@ -37,7 +37,7 @@ I'm **Michael**, a passionate **Full Stack Developer**. I enjoy building applica
 
 </div>
    
-## 📊  My Github Stats:
+## My Github Stats:
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdharr&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 </div>
