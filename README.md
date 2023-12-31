@@ -7,7 +7,7 @@ I'm a passionate **Full Stack Developer**. I enjoy building applications with **
 
 - Working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
 
-- Improving my **Angular** and **TypeScript** knowledge
+- Improving my **JavaScript**, **Angular**, and **TypeScript** knowledge
 
 - On the lookout for new opportunities where I can contribute, learn, and grow.
 
