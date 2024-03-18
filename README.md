@@ -1,5 +1,5 @@
 ### Hello, I'm Michael
-I'm a passionate **Full Stack Developer**. I enjoy building applications with **Spring Boot** and **Angular**.
+**United States Navy Veteran**, and passionate **Full Stack Developer**. I enjoy building applications with **Spring Boot** and **Angular**.
 
 ## About Me
 
