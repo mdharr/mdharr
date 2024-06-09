@@ -1,5 +1,5 @@
 ### Hello, I'm Michael
-**US Navy Veteran**, and passionate **Full Stack Developer**. I enjoy building applications with **Spring Boot** and **Angular**.
+**US Navy Veteran**, and passionate **Full Stack Developer**.
 
 ## About Me
 
@@ -7,7 +7,7 @@
 
 - Working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
 
-- Improving my **JavaScript**, **Angular**, and **TypeScript** knowledge
+- Improving my **JavaScript**, **Angular**, and **TypeScript** knowledge.
 
 - On the lookout for new opportunities where I can contribute, learn, and grow.
 
