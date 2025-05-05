@@ -16,7 +16,6 @@
 - How to reach me: **mdharr7@gmail.com**
 
 ## Skills
-
 ##### Languages & Syntax:
 
 <p>
@@ -26,14 +25,12 @@
 </p>
 
 ##### Backend & Frameworks:
-
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
 
 ##### Deployment & Cloud Services:
-
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -43,14 +40,12 @@
 </p>
 
 ##### Database Management:
-
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ##### Development Tools:
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -58,7 +53,6 @@
 </p>
 
 ##### Development Environments:
-
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
@@ -67,20 +61,15 @@
 
 
 ##### Frontend Development:
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
-##
-
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij,atom&theme=light&perline=14" />
-
-&nsbp;
    
 ## My Github Stats:
 <div align="center">
