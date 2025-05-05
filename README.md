@@ -16,7 +16,7 @@
 - How to reach me: **mdharr7@gmail.com**
 
 ## Languages and Tools:
-<div align="left"> 
+<div align="left" style="display: flex; justify-content: space-between;"> 
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="48" height="48" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="48" height="48" />
