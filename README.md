@@ -76,13 +76,7 @@
 
 <div align="right" style="float: right; clear: both; margin-left: 20px; margin-bottom: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light&perline=7" />
-  </a>
-</div>
-
-<div align="right" style="float: right; clear: both; margin-left: 20px; margin-bottom: 20px;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij,atom&theme=light&perline=7" />
+    <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij,atom&theme=light&perline=14" />
 
 <!-- Your other markdown content can continue here -->
    
