@@ -75,6 +75,12 @@
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light" />
+  </a>
+</p>
    
 ## My Github Stats:
 <div align="center">
