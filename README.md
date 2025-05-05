@@ -78,7 +78,7 @@
 
 <p align="right" float="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light&perline=7" />
   </a>
 </p>
    
