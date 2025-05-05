@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,swagger,mysql,redis,git,github,docker,azure,kafka,html,css,js,ts,angular&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light)](https://skillicons.dev)
    
 ## My Github Stats:
 <div align="center">
