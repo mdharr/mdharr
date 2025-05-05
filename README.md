@@ -1,19 +1,9 @@
-### Hello, I'm Michael
-**US Navy Veteran**, and passionate **Full Stack Developer**.
+# Michael Harrington
+**US Navy Veteran** | **Full-Stack Developer**.
 
-## About Me
-
-- Java Full Stack Developer | Veteran
-
-- Working on **Middle-Earth Artifacts Online**.
-
-- Improving my **JavaScript**, **Angular**, and **TypeScript** knowledge.
-
-- On the lookout for new opportunities where I can contribute, learn, and grow.
-
-- I believe in the power of collaboration and am always eager to discuss new projects or ideas.
-
-- How to reach me: **mdharr7@gmail.com**
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-harrington-58b41a25a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdharr7@gmail.com)
 
 ## Skills
 ##### Languages & Syntax:
