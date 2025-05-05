@@ -78,9 +78,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij,atom&theme=light&perline=14" />
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+##
    
 ## My Github Stats:
 <div align="center">
