@@ -76,7 +76,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij&theme=light&perline=14" />
 
 <!-- Your other markdown content can continue here -->
    
