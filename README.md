@@ -17,19 +17,19 @@
 
 ## Languages and Tools:
 
-<div>**Backend:**</div>
+<div>BACKEND:</div>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
 
-<div>**Frontend:**</div>
+<div>FRONTEND:</div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular&theme=light)](https://skillicons.dev)
 
-<div>**Database:**</div>
+<div>DATABASE:</div>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis&theme=light)](https://skillicons.dev)
 
-<div>**DevOps & Cloud**</div>
+<div>DEVOPS & CLOUD</div>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,azure,kafka&theme=light)](https://skillicons.dev)
    
