@@ -74,13 +74,13 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light)](https://skillicons.dev)
-
-<p align="right" float="right">
+<div align="right" style="float: right; clear: both; margin-left: 20px; margin-bottom: 20px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light&perline=7" />
   </a>
-</p>
+</div>
+
+<!-- Your other markdown content can continue here -->
    
 ## My Github Stats:
 <div align="center">
