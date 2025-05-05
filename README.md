@@ -76,7 +76,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light)](https://skillicons.dev)
 
-<p align="center">
+<p align="right" float="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,postman,git,github,githubactions,gradle,docker,azure,aws,kafka,html,css,js,ts,angular,vscode,eclipse,atom&theme=light" />
   </a>
