@@ -16,16 +16,21 @@
 - How to reach me: **mdharr7@gmail.com**
 
 ## Languages and Tools:
-**Backend:**
+
+<div>**Backend:**</div>
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
 
-**Frontend:**
+<div>**Frontend:**</div>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular&theme=light)](https://skillicons.dev)
 
-**Database:**
+<div>**Database:**</div>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis&theme=light)](https://skillicons.dev)
 
-**DevOps & Cloud**
+<div>**DevOps & Cloud**</div>
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,azure,kafka&theme=light)](https://skillicons.dev)
    
 ## My Github Stats:
