@@ -16,7 +16,7 @@
 - How to reach me: **mdharr7@gmail.com**
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,spring,mysql,redis,git,github,docker,azure,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,java,spring,mysql,redis,git,github,docker,azure,kafka&theme=light)](https://skillicons.dev)
    
 ## My Github Stats:
 <div align="center">
