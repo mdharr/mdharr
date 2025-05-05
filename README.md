@@ -15,6 +15,8 @@
 
 - How to reach me: **mdharr7@gmail.com**
 
+## Skills
+
 ##### Languages & Syntax:
 
 <p>
