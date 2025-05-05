@@ -17,34 +17,38 @@
 
 ## Languages and Tools:
 <div align="center">
-  <!-- Frontend Technologies -->
+  <!-- All technologies in one line with animated dividers -->
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="48" height="48"/>
-  </p>
-  
-  <!-- Backend Technologies -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="48" height="48" />
-  </p>
-  
-  <!-- Database Technologies -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="48" height="48" />
-  </p>
-  
-  <!-- DevOps & Cloud -->
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="githubactions" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="48" height="48" />&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="48" height="48" />&nbsp;&nbsp;
+    <!-- Frontend Technologies -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="48" height="48"/>&nbsp;&nbsp;
+    
+    <!-- Animated divider -->
+    <img src="https://www.animatedimages.org/img-animated-line-image-0242-106188.htm" height="48" />&nbsp;&nbsp;
+    
+    <!-- Backend Technologies -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="48" height="48" />&nbsp;&nbsp;
+    
+    <!-- Animated divider -->
+    <img src="https://www.animatedimages.org/img-animated-line-image-0242-106188.htm" height="48" />&nbsp;&nbsp;
+    
+    <!-- Database Technologies -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="48" height="48" />&nbsp;&nbsp;
+    
+    <!-- Animated divider -->
+    <img src="https://www.animatedimages.org/img-animated-line-image-0242-106188.htm" height="48" />&nbsp;&nbsp;
+    
+    <!-- DevOps & Cloud -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="githubactions" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="48" height="48" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="48" height="48" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="48" height="48" />
   </p>
 </div>
