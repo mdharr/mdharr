@@ -5,7 +5,7 @@
 
 - Java Full Stack Developer | Veteran
 
-- Working on <a href="https://github.com/mdharr/HowardTreasuryProject">**Howard Treasury**</a>
+- Working on **Middle-Earth Artifacts Online**.
 
 - Improving my **JavaScript**, **Angular**, and **TypeScript** knowledge.
 
