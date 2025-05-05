@@ -73,6 +73,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,swagger,mysql,redis,git,github,docker,azure,kafka,html,css,js,ts,angular&theme=light)](https://skillicons.dev)
    
 ## My Github Stats:
 <div align="center">
