@@ -76,6 +76,6 @@
     <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij,atom&theme=light&perline=14" />
    
 ## My Github Stats:
-<div align="center">
+<div align="left">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdharr&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 </div>
