@@ -2,7 +2,7 @@
 **Java Full Stack Developer | Veteran**
 
 <p>
-Former Chinese linguist now transitioned into tech as a graduate of Skill Distillery’s intensive Java Full-Stack program. Building robust web applications with Spring Boot and Angular.
+Chinese linguist to Software Engineer. Building robust, full-stack web applications.
 </p>
 
 ## Contact Me
