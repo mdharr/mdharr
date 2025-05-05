@@ -1,5 +1,9 @@
 # Michael Harrington
-**US Navy Veteran** | **Full-Stack Developer**.
+**Java Full Stack Developer | Veteran**
+
+<p>
+Former Chinese linguist now transitioned into tech as a graduate of Skill Distillery’s intensive Java Full-Stack program. Building robust web applications with Spring Boot and Angular.
+</p>
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-harrington-58b41a25a/)
