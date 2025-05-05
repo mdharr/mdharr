@@ -74,11 +74,13 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
+##
+
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,intellij,spring,intellij,mysql,intellij,redis,intellij,postman,intellij,git,intellij,github,intellij,githubactions,intellij,gradle,intellij,docker,intellij,azure,intellij,aws,intellij,kafka,intellij,html,intellij,css,intellij,js,intellij,ts,intellij,angular,intellij,vscode,intellij,eclipse,intellij,atom&theme=light&perline=14" />
 
-##
+&nsb;
    
 ## My Github Stats:
 <div align="center">
