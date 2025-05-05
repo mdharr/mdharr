@@ -26,23 +26,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="48" height="48"/>&nbsp;&nbsp;
     
-    <!-- Animated divider -->
-    <img src="https://www.animatedimages.org/img-animated-line-image-0242-106188.htm" height="48" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="25" />&nbsp;&nbsp;
     
     <!-- Backend Technologies -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="48" height="48" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="48" height="48" />&nbsp;&nbsp;
     
-    <!-- Animated divider -->
-    <img src="https://www.animatedimages.org/img-animated-line-image-0242-106188.htm" height="48" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="25" />&nbsp;&nbsp;
     
     <!-- Database Technologies -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="48" height="48" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="48" height="48" />&nbsp;&nbsp;
     
-    <!-- Animated divider -->
-    <img src="https://www.animatedimages.org/img-animated-line-image-0242-106188.htm" height="48" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="25" />&nbsp;&nbsp;
     
     <!-- DevOps & Cloud -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="48" height="48" />&nbsp;
