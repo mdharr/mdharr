@@ -2,7 +2,7 @@
 **Java Full Stack Developer | Veteran**
 
 <p>
-Chinese Linguist to Software Engineer. Building robust, full-stack web applications.
+Chinese Linguist turned Software Engineer. Building robust, full-stack web applications.
 </p>
 
 ## Contact Me
