@@ -4,6 +4,7 @@
 <p>
 Chinese Linguist turned Software Engineer. Building robust, full-stack web applications.
 </p>
+<p>Check out my <strong><a href="https://mdharrington.com/">PORTFOLIO⤴</a></strong></p>
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-harrington-58b41a25a/)
