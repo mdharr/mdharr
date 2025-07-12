@@ -4,6 +4,7 @@
 <p>
 Chinese Linguist turned Software Engineer. Building robust, full-stack web applications.
 </p>
+<p>Graduate of Skill Distillery's 16-week Full-Stack Java Program and Revature's 11-week PEP Training.</p>
 <p>Check out my <strong><a href="https://mdharrington.com/">PORTFOLIO⤴</a></strong></p>
 
 ## Contact Me
